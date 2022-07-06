@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Online Food Ordering System", ".", "{E6035C60-504D-44D5-A84A-5F1792DDE9FF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Online Food Ordering System"
+		Debug.AspNetCompiler.PhysicalPath = "..\Online Food Ordering System\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Online Food Ordering System\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Online Food Ordering System"
+		Release.AspNetCompiler.PhysicalPath = "..\Online Food Ordering System\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Online Food Ordering System\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "16647"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6035C60-504D-44D5-A84A-5F1792DDE9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6035C60-504D-44D5-A84A-5F1792DDE9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
